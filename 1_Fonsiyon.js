@@ -1,3 +1,7 @@
+/**
+ * standart JavaScrip fonksiyon yapısı
+ */
+
 function ekle ()
 {
     console.log ("deneme")
